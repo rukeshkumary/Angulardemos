@@ -1,0 +1,17 @@
+.header{
+    height: 200px;
+    width: 100%;
+    border: 1px solid brown;
+    background-color: antiquewhite;
+}
+.name{
+    display: inline;
+    position: absolute;
+}
+.total{
+    display : inline;
+    position : relative;
+    margin-left: 1100px;
+    font-size: large;
+    
+}
